@@ -1,5 +1,5 @@
 # az-clusterfileserver
-Powershell Module for configuring two-node cluster file server in Azure using Storage Spaces Direct.
+Powershell Module for configuring guest cluster file server in Azure using Storage Spaces Direct.
 
 Prerequisites:
 1.	An Azure subscription, a resource group, a Vnet and a subnet needs to be provisioned already.
